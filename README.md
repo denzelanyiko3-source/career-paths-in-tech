@@ -25,12 +25,12 @@ Each section is written by a different team member.
    2. Creates logos and brand identities.<br>
    3. Designs posters,flyers and bronchures.<br>
    4. Builds Social Media graphics.<br>
-   5. Designs Websites and Application interface.<br>
+   5. Designs Websites and application interface.<br>
    6. Creates advertisements.<br>
 
 <h3>Tools Used by Graphic Designers.</h3>
    1. Adobe Photoshop-It is basically used for editing photos.<br>
-   2. Adobe Illustrator-It is used for ligod and illustrations.<br>
+   2. Adobe Illustrator-It is used for logos and illustrations.<br>
    3. Canva-This tool is mostly used by beginners in graphic design.<br>
    4. Figma-It is used for UI/UX and Web design.<br>
    5. Adobe InDesign
