@@ -104,4 +104,5 @@ A cybersecurity professional ensures that information systems are safe from hack
 
 
 ## Software engineer
-<!-- [Team Member 3 Name] will write this section -->
+<!-- [Team Member 3 Britney- Software Engineer
+
